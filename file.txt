@@ -5,5 +5,3 @@ More text in The File-More Information
 Next commit
 
 Local changes
-
-Some changes for another branch file here
