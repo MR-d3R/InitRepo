@@ -6,4 +6,4 @@ Next commit
 
 Local changes
 
-Some changes for another branch file here
+Here are the conflictnig changes
