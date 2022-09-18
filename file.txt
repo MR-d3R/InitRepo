@@ -5,7 +5,11 @@ More text in The File-More Information
 Next commit
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Local changes
 =======
 Upstream repository
 >>>>>>> 1c689daa4c151fd447fbc342027ad1db4ac47d70
+=======
+Upstream repository
+>>>>>>> refs/remotes/origin/master
